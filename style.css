@@ -21,3 +21,25 @@ body    {
 .description {
     font-style: italic
 }
+
+.recipe_listing     {
+    text-align: center;
+    font-size: 24px;
+    display: block;
+
+    margin: 10px;
+    padding: 20px;
+
+    background-color: peachpuff;
+
+}
+.recipe_listing_image     {
+    display:block;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+#recipe_list   {
+    list-style-type: none;
+}
+
